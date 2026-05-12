@@ -28,7 +28,6 @@ detector.py / tracker.py	Core CV detection and multi-object tracking.
 ⚙️ Setup & Installation
 Clone the Repository:
 
-git clone https://github.com/vijaykumar-777/smart_cctv.git
 cd smart_cctv
 Install Dependencies:
 
