@@ -1,0 +1,47 @@
+# Virtual environments
+.venv/
+.venv311/
+venv/
+env/
+
+# Large model files
+*.pt
+*.pth
+*.onnx
+*.pb
+
+# Videos
+videos/*.mp4
+videos/*.avi
+videos/*.mov
+*.mp4
+*.avi
+*.mov
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+.coverage
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Clips and snapshots
+clips/
+snapshots/
+thumbs/
